@@ -9,11 +9,11 @@ The objective of this project is to extract meaningful factors from the [America
 
 Throughout this analysis, I've employed Python along with several of its libraries, including: 
 
-  pandas for data manipulation 
-  matplotlib and 
-  seaborn for data visualization 
-  factor_analyzer for the factor analysis, and 
-  pingouin for calculating Cronbach's alpha.
+  - pandas for data manipulation 
+  - matplotlib and 
+  - seaborn for data visualization 
+  - factor_analyzer for the factor analysis, and 
+  - pingouin for calculating Cronbach's alpha.
 
 I invite you to explore this project further. Here, you'll find detailed steps of the entire data analysis process - from data pre-processing, exploratory data analysis, making necessary assumptions for Factor Analysis, conducting factor analysis, to the interpretation of the results. I've taken care to describe each step in markdown, helping to provide a clear understanding of my thought process and the techniques used.
 
